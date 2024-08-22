@@ -1,0 +1,37 @@
+{
+  "name": "@0xbenjamin1/teabenjamin1",
+  "version": "1.0.3",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liang1981/teabenjamin1"
+  },
+  "website": "https://github.com/liang1981/teabenjamin1.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "0xbenjamin1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liang1981/teabenjamin1/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/liang1981/teabenjamin1/blob/main/README.md",
+  "dependencies": {
+    "@moncici/date-time-processor": "^1.0.3",
+    "@moncici/log": "^1.0.2",
+    "@moncici/proxy": "^1.0.3",
+    "@moncici/sleep": "^1.0.1",
+    "feishu-notifier": "^1.0.3"
+  }
+}
